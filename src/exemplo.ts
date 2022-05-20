@@ -3,4 +3,4 @@ function soma(a: number, b:number){
 }
 
 soma(1,1);
-//soma('1','1'); gera o erro 
+soma('1','1'); 
